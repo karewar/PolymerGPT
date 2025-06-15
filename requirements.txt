@@ -1,0 +1,6 @@
+Requirements pip install streamlit pandas sentence-transformers scikit-learn 
+You also need a local or remote .parquet file of polymers with at least a smiles column (optionally Tg for filtering).
+
+Contact Author for more details.                                                                          
+                                                                                      
+
