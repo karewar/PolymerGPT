@@ -17,9 +17,6 @@ A lightweight, interactive Streamlit application for exploring and comparing pol
 ⚡ Streamlit-Powered Interface: Runs in-browser with responsive, intuitive UI.
 
 🛠️ Requirements
-bash
-Copy
-Edit
 pip install streamlit pandas sentence-transformers scikit-learn
 You also need a local or remote .parquet file of polymers with at least a smiles column (optionally Tg for filtering).
 
